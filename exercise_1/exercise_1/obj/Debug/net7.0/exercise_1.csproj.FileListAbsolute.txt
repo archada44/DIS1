@@ -1,0 +1,15 @@
+/Users/abhiramreddy/Documents/DIS/git/DIS1/exercise_1/exercise_1/bin/Debug/net7.0/exercise_1
+/Users/abhiramreddy/Documents/DIS/git/DIS1/exercise_1/exercise_1/bin/Debug/net7.0/exercise_1.deps.json
+/Users/abhiramreddy/Documents/DIS/git/DIS1/exercise_1/exercise_1/bin/Debug/net7.0/exercise_1.runtimeconfig.json
+/Users/abhiramreddy/Documents/DIS/git/DIS1/exercise_1/exercise_1/bin/Debug/net7.0/exercise_1.dll
+/Users/abhiramreddy/Documents/DIS/git/DIS1/exercise_1/exercise_1/bin/Debug/net7.0/exercise_1.pdb
+/Users/abhiramreddy/Documents/DIS/git/DIS1/exercise_1/exercise_1/obj/Debug/net7.0/exercise_1.csproj.AssemblyReference.cache
+/Users/abhiramreddy/Documents/DIS/git/DIS1/exercise_1/exercise_1/obj/Debug/net7.0/exercise_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abhiramreddy/Documents/DIS/git/DIS1/exercise_1/exercise_1/obj/Debug/net7.0/exercise_1.AssemblyInfoInputs.cache
+/Users/abhiramreddy/Documents/DIS/git/DIS1/exercise_1/exercise_1/obj/Debug/net7.0/exercise_1.AssemblyInfo.cs
+/Users/abhiramreddy/Documents/DIS/git/DIS1/exercise_1/exercise_1/obj/Debug/net7.0/exercise_1.csproj.CoreCompileInputs.cache
+/Users/abhiramreddy/Documents/DIS/git/DIS1/exercise_1/exercise_1/obj/Debug/net7.0/exercise_1.dll
+/Users/abhiramreddy/Documents/DIS/git/DIS1/exercise_1/exercise_1/obj/Debug/net7.0/refint/exercise_1.dll
+/Users/abhiramreddy/Documents/DIS/git/DIS1/exercise_1/exercise_1/obj/Debug/net7.0/exercise_1.pdb
+/Users/abhiramreddy/Documents/DIS/git/DIS1/exercise_1/exercise_1/obj/Debug/net7.0/exercise_1.genruntimeconfig.cache
+/Users/abhiramreddy/Documents/DIS/git/DIS1/exercise_1/exercise_1/obj/Debug/net7.0/ref/exercise_1.dll

@@ -1,4 +1,11 @@
-﻿int[] bubble_sort_numbers = { 5, 72, 3, 14, 7, 1 };
+﻿/*
+Author: Abhiram Reddy Chada
+Date: 02/28/2024
+Comments: This C# Console Application code demonstrates the
+    Bubble Sort Algorithms.  
+*/
+
+int[] bubble_sort_numbers = { 5, 72, 3, 14, 7, 1 };
 Console.WriteLine("Here is the original array that will be used to execute the Bubble Sort Algorithm: ");
 for (int i = 0; i < bubble_sort_numbers.Length; i++)
 {
